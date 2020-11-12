@@ -9,6 +9,8 @@
 >>>> after all packages are installed, open: index.js
 >>>>
 >>>>> type in index.js your group token and group id.
+>>>>>
+>>>>>> run file: **node index.js** 
 
 # voila
 
