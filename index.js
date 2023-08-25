@@ -3,9 +3,9 @@ const { HearManager } = require('@vk-io/hear');
 const { createCanvas, loadImage} = require('canvas')
 const {Keyboard} = require('vk-io');
 const vk = new VK({
-	token: "", // токен группы
+	token: "vk1.a.ertKNzhKnH2WOOcNiC_BuFKYBJAm3A2m4FzKRxVF_xXkJn9hbWWVfweioWa0magGzgImjnxylm_wyMWfPp8QynWaPO2oISjizjTblnoSFIKkmBX-xKxc6s10JjekgzCjzrxjQc5pLzr11rOFQwYIh-H_cQC-80", // токен группы
 	apiMode: "parallel", 
-	pollingGroupId:  // ID группы
+	pollingGroupId: https://vk.com/club212588178 // ID группы
 }); 
 const { updates } = vk;
 const fs = require('fs');
