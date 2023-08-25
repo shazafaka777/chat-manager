@@ -5,7 +5,7 @@ const {Keyboard} = require('vk-io');
 const vk = new VK({
 	token: "vk1.a.ertKNzhKnH2WOOcNiC_BuFKYBJAm3A2m4FzKRxVF_xXkJn9hbWWVfweioWa0magGzgImjnxylm_wyMWfPp8QynWaPO2oISjizjTblnoSFIKkmBX-xKxc6s10JjekgzCjzrxjQc5pLzr11rOFQwYIh-H_cQC-80", // токен группы
 	apiMode: "parallel", 
-	pollingGroupId: https://vk.com/club212588178 // ID группы
+	pollingGroupId: "https://vk.com/club212588178" // ID группы
 }); 
 const { updates } = vk;
 const fs = require('fs');
@@ -16,7 +16,7 @@ const req = require('request');
 const basa = new Array(chats);
 const moment = require('moment');
 const request = require('request-promise')
-const managerid = ; // ID группы
+const managerid = "https://vk.com/club212588178"; // ID группы
 
 //--------------------------------------------------------------------------------------------------------//
 const express = require('express')
